@@ -19,7 +19,7 @@
     - L182A a-CD figures: 24.11.18_L182A__rett_a-CD, sheets: 3, 7, 8, 9, 10. Times: 0, 40, 66, 123, 179 min = 0, 2400, 3960, 7380, 10740 sek
     - T45P_L182A figures: 25.02.11_double_FsC_mutant, sheets: 2, 3, 4, 5, 6. Times: 0, 32, 62, 122, 180 min = 0, 1920, 3720, 7320, 10800 sek 
     - T45P_L182A a-CD figures: 25.02.11_double_FsC_mutant_a-CD, sheets: 2, 3, 4, 5, 6. Times: 0, 32, 59, 121, 185 min = 0, 1920, 3540, 7260, 11100 sek 
-- Kode: FPLC_plots.ipynb
+- Kode: PET suspension.ipynb
 
 ## 1H NMR
 - Data:
